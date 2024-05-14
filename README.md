@@ -8,7 +8,7 @@ The game is over if any chips fall into the holes.
 
 I created some maps which are available on standard maps menu.
 
-![plot](/res/Image/sample_game_map.png)
+![plot](./res/Image/sample_game_map.png)
 
 I also provided create map pages which allowed you to simulate and play your own custom maps.
 The size of grids, number of chips, and number of goals can be customized as long as number of chips is not greater than number of goals.
