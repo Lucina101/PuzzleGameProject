@@ -1,4 +1,5 @@
 # PuzzleGameProject
+![plot](./res/Image/sample_main_menu.png)
 Writing a puzzle game based on codeforces problems. 
 Chips on the grid is simple puzzle game. The objective is to move all chips to the targeted positions.
 In one move, we can slide all chips in the same direction and each chip will slide until hitting walls or holes in the grid.
